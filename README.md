@@ -9,3 +9,6 @@ gcc -o quotes quotes.c -lncurses -lcurl -lm
 <br><br>
 Preview:
 <br><br>
+https://github.com/user-attachments/assets/258290d8-3ea9-43ee-ae22-b6125a26107e
+
+
