@@ -5,4 +5,7 @@ Animated quotes (70,000) wallpaper for the terminal
 <br><br>
 Compile with:
 <br><br>
-
+gcc -o quotes quotes.c -lncurses -lcurl -lm
+<br><br>
+Preview:
+<br><br>
